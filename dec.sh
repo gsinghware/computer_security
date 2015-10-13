@@ -1,0 +1,1 @@
+./a.out -d -i ct -o file0 -k tmp/testkey

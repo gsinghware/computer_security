@@ -1,0 +1,1 @@
+./a.out -e -i data/test2 -o ct -k tmp/testkey
